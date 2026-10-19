@@ -1,0 +1,1 @@
+"""Luraph v14.7 / v14.8 / v14.9 support: shares the v15 engine, layered with the v14 mapper (repeat dispatchers, argument-0 prototypes, initializer factories) and the v14 lifter quirks (symbolic unresolved-table state, native closure preservation, table-literal register values)."""

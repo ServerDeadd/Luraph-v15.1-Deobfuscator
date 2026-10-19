@@ -1,0 +1,17 @@
+{
+  "name": "luraph-v15-deobfuscator",
+  "version": "1.0.0",
+  "description": "Defensive deobfuscator for Luraph v15 / v15.1 protected Luau scripts",
+  "main": "deob.js",
+  "bin": {
+    "deob": "./deob.js"
+  },
+  "scripts": {
+    "start": "node deob.js",
+    "test": "python tests/run_samples.py"
+  },
+  "keywords": ["luraph", "deobfuscator", "roblox", "luau"],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs"
+}
