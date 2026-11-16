@@ -4,7 +4,7 @@
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-green.svg)](https://nodejs.org/)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-green.svg)](https://www.python.org/)
 [![Target](https://img.shields.io/badge/Target-Luraph%20v15%20%2F%20v15.1-red.svg)](#)
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/ServerDeadd/count.svg)
 # STAR THIS PROJECT!
 
 
